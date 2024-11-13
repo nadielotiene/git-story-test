@@ -1,0 +1,6 @@
+# Log files
+
+.DS_Store
+secrets.txt
+
+# if you add a line that starts with an asterisk, that means that you want to add all of the files with that extention, eg. *.txt *.html *.js
